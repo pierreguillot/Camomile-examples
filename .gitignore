@@ -1,0 +1,15 @@
+# Executables & Compiled libraries
+*.lai
+*.la
+*.a
+*.lib
+*.exe
+*.out
+*.app
+*.component
+*.vst
+*.vst3
+*.so
+*.dylib
+*.dll
+*.pd_darwin
